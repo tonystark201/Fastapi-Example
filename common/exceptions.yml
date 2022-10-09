@@ -1,0 +1,9 @@
+1001: "authentication error"
+1002: "accout or password error when user login"
+1003: "user password validation error"
+1004: "schema error"
+1005: "http error"
+1006: "entity duplication error"
+1007: "teacher has been deleted"
+1008: "class has been deleted"
+
